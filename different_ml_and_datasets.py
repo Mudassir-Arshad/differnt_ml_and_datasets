@@ -12,7 +12,7 @@ from sklearn.metrics import accuracy_score  # Importing accuracy score metric
 
 # Title and description for the web application
 st.write('''
-# Explore different ML models and datasets
+# -xplore different ML models and datasets
 Daikhtay hain kon sa best hai in may say?
 ''')
 
